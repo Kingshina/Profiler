@@ -2,13 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 
-const data = {
+var data = {
   name: 'Adesina Adelua',
   imgURL: './profile.jpg', 
   hobbyList: [
-    'Reading Tech Blogs',
-    'Coding Side Projects',
-    'Eating Free Food'
+    'Playing Basketball',
+    'Listening to music',
+    'Driving'
   ]
 };
 
